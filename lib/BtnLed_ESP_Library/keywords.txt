@@ -1,0 +1,78 @@
+#######################################
+# Syntax Coloring Map NeoPixelBus
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+payload_t	KEYWORD1
+event_t	KEYWORD1
+
+Queue	KEYWORD1
+EventQueue	KEYWORD1
+
+List	KEYWORD1
+StaticList	KEYWORD1
+
+buttonstate_t	KEYWORD1
+btneventid_t	KEYWORD1
+
+Button	KEYWORD1
+Buttons	KEYWORD1
+
+ledmode_t	KEYWORD1
+
+Led	KEYWORD1
+Leds	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+depth	KEYWORD2
+clear	KEYWORD2
+put	KEYWORD2
+peek	KEYWORD2
+get	KEYWORD2
+
+count	KEYWORD2
+add	KEYWORD2
+remove	KEYWORD2
+find	KEYWORD2
+
+pause	KEYWORD2
+resume	KEYWORD2
+
+getMode	KEYWORD2
+setMode	KEYWORD2
+update	KEYWORD2
+delay	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ERR_INDEX	LITERAL1
+
+BTN_RELEASED	LITERAL1
+BTN_PRESSED	LITERAL1
+BTN_CLICK	LITERAL1
+BTN_LONGCLICK	LITERAL1
+BTN_DBLCLICK	LITERAL1
+
+EVT_BTNBASE	LITERAL1
+EVT_BTNRELEASED	LITERAL1
+EVT_BTNPRESSED	LITERAL1
+EVT_BTNCLICK	LITERAL1
+EVT_BTNLONGCLICK	LITERAL1
+EVT_BTNDBLCLICK	LITERAL1
+
+LED_OFF	LITERAL1
+LED_ON	LITERAL1
+LED_1HZ	LITERAL1
+LED_2HZ	LITERAL1
+LED_4HZ	LITERAL1
+LED_FADEIN	LITERAL1
+LED_FADEOUT	LITERAL1
+LED_FADEINOUT	LITERAL1
